@@ -11,22 +11,22 @@ O programa deve ser executado continuamente, permitindo que o usuário insira v�
 ## A Jornada da Classificação Frutífera
 Nesta missão, sua tarefa é mais desafiadora do que nunca! Em um pomar mágico, as frutas têm características únicas que as diferenciam. Seu objetivo é criar um modelo de machine learning capaz de classificar frutas com base em três características: peso, textura (suave ou áspera) e cor (vermelha, laranja ou amarela). Cada tipo de fruta tem limites específicos para essas características.
 
-<b>Morango:</b>
+**Morango:**
 - Peso mínimo: 150 gramas;
 - Textura: Suave;
 - Cor: Vermelha.
 
-<b>Laranja:</b>
+**Laranja:**
 - Peso mínimo: 120 gramas;
 - Textura: Suave;
 - Cor: Laranja.
 
-<b>Banana:</b>
+**Banana:**
 - Peso mínimo: 150 gramas;
 - Textura: Áspera;
 - Cor: Amarela.
 
-<b>Maçã:</b>
+**Maçã:**
 - Peso mínimo: 130 gramas;
 - Textura: Ápera;
 - Cor: Vermelha.
@@ -42,24 +42,24 @@ No reino mágico onde cada feiticeiro possui uma afinidade elemental única, seu
 
 Aqui estão os critérios mágicos para cada elemento:
 
-<b>Elemento Fogo:</b>
+**Elemento Fogo:**
 - Intensidade do feitiço maior ou igual a 5;
 - Fase lunar durante o feitiço é crescente;
 - Idade do feiticeiro é superior a 100 anos.
 
-<b>Elemento Água:</b>
+**Elemento Água:**
 - Intensidade do feitiço maior ou igual a 7;
 - Presença de componente raro;
 - Fase lunar durante o feitiço é cheia;
 - Idade do feiticeiro é igual ou inferior a 100 anos;
 - Afinidade com animais mágicos.
 
-<b>Elemento Terra:</b>
+**Elemento Terra:**
 - Intensidade do feitiço maior ou igual a 7;
 - Presença de componente raro;
 - Fase lunar durante o feitiço é cheia;
 - Idade do feiticeiro é igual ou inferior a 100 anos;
 - Afinidade com animais mágicos.
 
-<b>Elemento Ar:</b>
+**Elemento Ar:**
 - Caso não se encaixe nos critérios anteriores.
